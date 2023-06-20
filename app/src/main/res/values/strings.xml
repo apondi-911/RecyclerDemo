@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RecyclerDemo</string>
+    <string name="title">Title</string>
+    <string name="share">Share</string>
+    <string name="btn_show_toast">SHOW TOAST</string>
+    <string name="et_enter_msg">Enter message</string>
+    <string name="btn_move_to_next_activity">MOVE TO NEXT ACTIVITY</string>
+    <string name="btn_share_to_apps">SHARE TO APPS</string>
+    <string name="btn_hobbies">HOBBIES</string>
+    <string name="textview">TextView</string>
+    <string name="view_hobbies">View Hobbies</string>
+    <string name="back_to_home">BACK TO HOME</string>
+</resources>
